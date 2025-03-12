@@ -19,7 +19,11 @@ body {
     font-weight: bold;
     color: #4CAF50;
 }
-
+.question-number {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
 #answers {
     margin-top: 20px;
 }
@@ -30,7 +34,6 @@ body {
     background-color: #fff;
     border: 1px solid #ddd;
     cursor: pointer;
-    
 }
 
 .answer.selected {
